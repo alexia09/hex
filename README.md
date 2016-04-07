@@ -1,0 +1,2 @@
+# hex
+jeu du hex
